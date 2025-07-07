@@ -9,7 +9,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a portfolio website**
+ 🔭 I’m currently working on **a monitoring stack with Prometheus & Grafana**
  
  🌱 I’m currently learning **Kubernetes, CI/CD, AWS**
 
@@ -30,7 +30,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=kubernetes,grafana,prometheus,jenkins,githubactions,bash,docker" /><br>
-    <img src="https://skillicons.dev/icons?i=aws,postgresql,flask,python,javascript,typescript,vue,ubuntu,vscode,git"/>
+    <img src="https://skillicons.dev/icons?i=aws,postgresql,flask,python,ubuntu,vscode,git"/>
 </div>
 
 <br/>
